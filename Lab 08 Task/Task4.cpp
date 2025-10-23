@@ -43,9 +43,11 @@ int main(){
 		}
 		printf("\n");
 	}
+	printf("\n");
 	printf("Summary:\n");
 	printf("Students Seated: %d\n",full);
 	printf("Empty desk: %d\n",empty);
 	printf("Total Desks: %d\n", full+empty);
 	return 0;
+
 }
